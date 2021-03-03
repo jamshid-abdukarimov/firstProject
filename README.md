@@ -1,0 +1,2 @@
+# firstProject
+mening birinchi proyektim
